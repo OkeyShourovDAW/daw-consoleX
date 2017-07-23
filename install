@@ -1,4 +1,4 @@
-apt-get update
+apt-get -f install
 tar -xf daw.tar.xz
 rm daw.tar.xz
 chmod +x daw.consolex.exe
