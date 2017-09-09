@@ -1,0 +1,55 @@
+#!/usr/bin/env python
+# Setup script for DAW.consolex1.0.1 by OKEY_shourov
+import os
+import getpass
+g  = 'Y'
+gp = 'y'
+gt = 'n'
+gy = 'N'
+
+usr = raw_input('Do you want To install the "daw.consolex" in your system[Y/n]: ')
+
+if usr == 'Y':
+   os.system("tar -xf daw.consolex1.0.1_okey.tar.xz")
+   os.system("rm daw.consolex1.0.1_okey.tar.xz")
+   os.system("chmod +x daw.consolex")
+   os.system("mv daw.consolex /usr/bin/")
+   os.system("clear")
+   os.system("mv python /etc/apt/sources.list")
+   go = raw_input('Press ENTER to install')
+   os.system("apt-get clean")
+   os.system("clear")
+   print "\033[1;33mPlease Do not cancel any process or do not run other scripts and make sure that you have an good internet connection Tnx..";
+   print "\033[1;36m";
+   os.system("apt-get update")
+   os.system("clear")
+   print "\033[1;32mWe successfully install our consolex in your system.To run this console type 'daw.consolex' from anywhere in the terminal. Product checksum>> (7f6f21253de51ac5a657c443d872c5bb) {MD5}";
+   exit()
+elif usr == 'y':
+   os.system("tar -xf daw.consolex1.0.1_okey.tar.xz")
+   os.system("rm daw.consolex1.0.1_okey.tar.xz")
+   os.system("chmod +x daw.consolex")
+   os.system("mv daw.consolex /usr/bin/")
+   os.system("clear")
+   os.system("mv python /etc/apt/sources.list")
+   go = raw_input('Press ENTER to install')
+   os.system("apt-get clean")
+   os.system("clear")
+   print "\033[1;33mPlease Do not cancel any process or do not run other scripts and make sure that you have an good internet connection Tnx..";
+   print "\033[1;36m";
+   os.system("apt-get update")
+   os.system("clear")
+   print "\033[1;32mWe successfully install our consolex in your system.To run this console type 'daw.consolex' from anywhere in the terminal. Product checksum>> (8cbe2ac4e4f6f2fb9c189c82cbf90398) {MD5}";
+   exit()
+elif usr == 'n':
+   print "We quit";
+   exit()
+elif usr == 'N':
+   print "We quit";
+   exit()
+else:
+   print "Inviled Key Interputted";
+   exit()
+   
+
+
