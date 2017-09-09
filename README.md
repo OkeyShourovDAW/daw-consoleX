@@ -2,6 +2,8 @@
 
 This console is the most advance console ever after metasploit ....
 
+NOET: To avoid the Fake daw.consolex plz Do not download from other mirrors....
+
 
 It can make pentesting easy..
 all the essential tools and softwares are in this tool ...
@@ -48,6 +50,8 @@ Improvements
     14~ Both wine64 & wine32 bits will be install via updating
     15~ monodevelop & bettercap is now added
     16~ Inviled Key bug in no more in this beta 1.0.1
+    
+Checkout The tool our Toold checksum >   8cbe2ac4e4f6f2fb9c189c82cbf90398
 
 keep sending up new bugs > darkalienweb@gmail.com <
 
