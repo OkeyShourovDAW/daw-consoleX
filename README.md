@@ -1,8 +1,23 @@
 #!The readme.md file by OKEY_shourov
 
+
+# Developer @OKEY_shourov
+# TYpe Consolex
+# DAW.CONSOLEX
+# Current Version~ Beta1.0.1
+# Previous Version~ Beta1.0
+# Software Type~ Beta1.0.1 (Pro)
+# checksum~ 8cbe2ac4e4f6f2fb9c189c82cbf90398    (YOU CAN CHECKOUT THIS CHECKSUM IF DOSEN'T MATCH WITH IS md5 hash then the software is fake)
+# Developer Code~ llpl100mprsBprqlOKEY_shourov202389
+# Serial_Product~ a040c88457f2177d899e4dbb26367069
+
+# New version of DAW.CONSOLEX beta1.0.1 with lot of security improvements and other features and bug fixes.READOUT whole readme.md
+
+
+
 This console is the most advance console ever after metasploit ....
 
-NOET: To avoid the Fake daw.consolex plz Do not download from other mirrors....
+# NOET: To avoid the Fake daw.consolex plz Do not download from other mirrors....
 
 
 It can make pentesting easy..
@@ -13,28 +28,28 @@ the softwares are made by DarkAlienweb and other groupe's poducts.
 
 BUt stay away from fake.....Checkout the CHECKsum of our software...
 
-Installisation
+# Installisation
 
      1~  chmod +x setup.exe
      2~  ./setup.exe
 
 
-This beta 1.0.1 fixed a lot of bugs and new security with more power and options and features.
+# This beta 1.0.1 fixed a lot of bugs and new security with more power and options and features.
 
-newly added
+# newly added
      1~ Wifi hacking console
 and others.
 
              new packeges.
-NOw support both 64 and 32 bit platforms 
+# NOw support both 64 and 32 bit platforms 
 and OS supports 
 
      1~ Kali linux (32/64 bits) all models
      2~ Parrot Sec OS (32/64 bits) all models
 
-more OS supports will be come soon.
+# more OS supports will be come soon.
 
-Improvements
+# Improvements
      1~ Better security Duel passcode lock.
      2~ Security improvement with checksum MD5 official hash
      3~ Extra WIFI console with easy mood
@@ -51,7 +66,7 @@ Improvements
     15~ monodevelop & bettercap is now added
     16~ Inviled Key bug in no more in this beta 1.0.1
     
-Checkout The tool our Toold checksum >   8cbe2ac4e4f6f2fb9c189c82cbf90398
+# Checkout The tool our Toold checksum >   8cbe2ac4e4f6f2fb9c189c82cbf90398
 
-keep sending up new bugs > darkalienweb@gmail.com <
+# keep sending up new bugs > darkalienweb@gmail.com <
 
