@@ -1,0 +1,12 @@
+tar -xf daw-consolexB2.tar.xz
+rm daw-consolexB2.tar.xz
+mkdir /opt/okey_shourov
+mkdir /opt/okey_shourov/power-usr
+mkdir /opt/okey_shourov/power-usr/daw-consolex_beta2.0
+mkdir /opt/okey_shourov/power-usr/daw-consolex_beta2.0/icon
+mv darkalienweb.png /opt/okey_shourov/power-usr/daw-consolex_beta2.0/icon/
+mv daw.consolex.exe /usr/bin/daw.consolex
+cp icon.desktop /usr/share/applications/
+cp icon.desktop /opt/okey_shourov/power-usr/daw-consolex_beta2.0
+apt-get -f install
+echo "Installisation Done"
